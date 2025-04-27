@@ -1,4 +1,4 @@
-<h2 align="center">Aloo 👋! Me chamo Carlos Henrique, e sou dev Backend Java </h2>
+<h2 align="center">Eae 👋! Me chamo Carlos Henrique, e sou dev Backend Java </h2>
 
 ###
 
