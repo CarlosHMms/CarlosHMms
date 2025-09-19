@@ -1,9 +1,16 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9A9A9A&center=true&width=435&lines=Hi+i'm+Carlos!!;Welcome+to+my+github+XD" alt="Typing SVG" /></a>
   
+  ---
+  
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/carlosh.mm" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=dark&labelColor=&style=for-the-badge" height="30" alt="Instagram"  /></a>
   <a href="www.linkedin.com/in/carlosmotamartins" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linkedin"  /></a>
 </div>
+
+<br>
 
 <div align="center">
 
@@ -37,7 +44,15 @@
   
 </div>
 
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carloshmms&theme=oldie&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+ </div>
+
 ---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding mario" width="100%%"/>
+</div>
 
 <br clear="both">
 <div align="center">
